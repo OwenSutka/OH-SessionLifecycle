@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "session-lifecycle",
+  "version": "0.1.0",
+  "description": "Session records, artifact capture, resume pointers and read-only artifact sync.",
+  "license": "MIT",
+  "repository": "https://github.com/OwenSutka/OH-SessionLifecycle"
+}
